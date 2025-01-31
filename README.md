@@ -9,7 +9,7 @@ Sales Performance:
 ---
 ![](Dashboard1.jpg)
 
-##Insight 
+## Insight 
 GTXPro had the highest product revenue, which was 7,920.88% higher than MG Special, which had the lowest product revenue at 43768.﻿﻿
 ﻿﻿GTXPro accounted for 35.09% of Product Revenue.﻿﻿
 ﻿﻿
